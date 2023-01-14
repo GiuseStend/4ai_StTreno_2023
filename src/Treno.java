@@ -25,7 +25,9 @@ public class Treno {
 	 * @param maxV
 	 * @param partenza
 	 * @param destinazione
+	 //version 4
 	 */
+	
 	/**
 	 * @return metodo costruttore
 	 */
